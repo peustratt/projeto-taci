@@ -76,7 +76,7 @@ button>a:link {
     border: 2px var(--cor-principal) solid;
     border-radius: 6px;
     margin: 0 auto;
-    cursor: not-allowed;
+    cursor: pointer;
 }
 
 .cta-login {
